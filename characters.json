@@ -366,11 +366,11 @@
 			"image": "aether.png",
 			"element": "Adaptive",
 			"weapon": "Sword",
-			"special_dish": "",
+			"special_dish": null,
 			"sex": "Male",
 			"birthday": "Player's Choice",
 			"constellation": "Viator",
-			"nation": ""
+			"nation": null
 		},
 		{
 			"id": 31,
@@ -378,11 +378,11 @@
 			"image": "lumine.png",
 			"element": "Adaptive",
 			"weapon": "Sword",
-			"special_dish": "",
+			"special_dish": null,
 			"sex": "Female",
 			"birthday": "Player's Choice",
 			"constellation": "Viatrix",
-			"nation": ""
+			"nation": null
 		},
 		{
 			"id": 32,

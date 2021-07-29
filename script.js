@@ -32,6 +32,20 @@ const selectCharacter = async (id) => {
 
 const displayPopup = (charactere, id) => {
 	const image = `./images/${charactere.character[id - 1].image}`;
+	let nationHTMLString;
+	let special_dishHTMLString;
+	
+	if (charactere.character[id - 1].nation === null) {
+		nationHTMLString = "";
+	} else {
+		nationHTMLString = `<small>Nation: </small>${charactere.character[id - 1].nation}`;
+	}
+	
+	if (charactere.character[id - 1].special_dish === null) {
+		special_dishHTMLString = "";
+	} else {
+		special_dishHTMLString = `<small>Special Dish: </small>${charactere.character[id - 1].special_dish}`;
+	}
 
 	const htmlString = `
 		<div class="popup">
@@ -46,8 +60,8 @@ const displayPopup = (charactere, id) => {
 				<p><small>Element: </small>${charactere.character[id - 1].element}</p>
 				<p><small>Constellation: </small>${charactere.character[id - 1].constellation}</p>
 				<p><small>Birthday: </small>${charactere.character[id - 1].birthday}</p>
-				<p><small>Nation: </small>${charactere.character[id - 1].nation}</p>
-				<p><small>Special Dish: </small>${charactere.character[id - 1].special_dish}</p>
+				<p>${nationHTMLString}</p>
+				<p>${special_dishHTMLString}</p>
 			</div>
 		</div>
 	`;
