@@ -1,0 +1,40 @@
+{
+	"character": [
+		{
+			"id": 0,
+			"name": "Albedo",
+			"image": "albedo.png",
+			"element": "Geo",
+			"weapon": "Sword",
+			"special_dish": "Woodland Dream",
+			"sex": "Male",
+			"birthday": "September 13th",
+			"constellation": "Princeps Cretaceus",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 1,
+			"name": "Amber",
+			"image": "amber.png",
+			"element": "Pyro",
+			"weapon": "Bow",
+			"special_dish": "Outrider's Champion Steak!",
+			"sex": "Female",
+			"birthday": "August 10th",
+			"constellation": "Lepus",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 2,
+			"name": "Barbara",
+			"image": "barbara.png",
+			"element": "Hydro",
+			"weapon": "Catalyst",
+			"special_dish": "Spicy Stew",
+			"sex": "Female",
+			"birthday": "July 5th",
+			"constellation": "Crater",
+			"nation": "Mondstadt"
+		}
+	]
+}
