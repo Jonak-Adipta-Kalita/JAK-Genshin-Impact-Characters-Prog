@@ -35,6 +35,18 @@
 			"birthday": "July 5th",
 			"constellation": "Crater",
 			"nation": "Mondstadt"
+		},
+		{
+			"id": 3,
+			"name": "Beidou",
+			"image": "beidou.png",
+			"element": "Electro",
+			"weapon": "Claymore",
+			"special_dish": "Flash-Fried Filet",
+			"sex": "Female",
+			"birthday": "February 14th",
+			"constellation": "Victor Mare",
+			"nation": "Liyue"
 		}
 	]
 }
