@@ -158,8 +158,8 @@
 		},
 		{
 			"id": 13,
-			"name": "Kaedehara",
-			"image": "kaedehara.png",
+			"name": "Kaedehara Kazuha",
+			"image": "kaedehara-kazuha.png",
 			"element": "Anemo",
 			"weapon": "Sword",
 			"special_dish": "All-Weather Beuty",
@@ -178,12 +178,12 @@
 			"sex": "Male",
 			"birthday": "November 30th",
 			"constellation": "Pavo Ocellus",
-			"nation": "Mondstadt and Khaenri'ah"
+			"nation": "Mondstadt"
 		},
 		{
 			"id": 15,
-			"name": "Kamisato",
-			"image": "kamisato.png",
+			"name": "Kamisato Ayaka",
+			"image": "kamisato-ayaka.png",
 			"element": "Cyro",
 			"weapon": "Sword",
 			"special_dish": "Snow on the Heart",
@@ -215,6 +215,42 @@
 			"birthday": "July 27th",
 			"constellation": "Trifolium",
 			"nation": "Mondstadt"
+		},
+		{
+			"id": 19,
+			"name": "Lisa",
+			"image": "lisa.png",
+			"element": "Electro",
+			"weapon": "Catalyst",
+			"special_dish": "Mysterious Bolognese",
+			"sex": "Female",
+			"birthday": "June 9th",
+			"constellation": "Tempus Fugit",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 20,
+			"name": "Mona",
+			"image": "mona.png",
+			"element": "Hydro",
+			"weapon": "Catalyst",
+			"special_dish": "Der Weisheit Letzter",
+			"sex": "Female",
+			"birthday": "August 31st",
+			"constellation": "Astrolabos",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 21,
+			"name": "Ningguang",
+			"image": "ningguang.png",
+			"element": "Geo",
+			"weapon": "Catalyst",
+			"special_dish": "Qiankun Mora Meat",
+			"sex": "Female",
+			"birthday": "August 26st",
+			"constellation": "Opus Aequilibrium",
+			"nation": "Liyue"
 		}
 	]
 }
