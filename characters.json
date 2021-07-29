@@ -359,6 +359,78 @@
 			"birthday": "April 17th",
 			"constellation": "Alatus Nemeseos",
 			"nation": "Liyue"
+		},
+		{
+			"id": 30,
+			"name": "Aether",
+			"image": "aether.png",
+			"element": "Adaptive",
+			"weapon": "Sword",
+			"special_dish": "",
+			"sex": "Male",
+			"birthday": "Player's Choice",
+			"constellation": "Viator",
+			"nation": ""
+		},
+		{
+			"id": 31,
+			"name": "Lumine",
+			"image": "lumine.png",
+			"element": "Adaptive",
+			"weapon": "Sword",
+			"special_dish": "",
+			"sex": "Female",
+			"birthday": "Player's Choice",
+			"constellation": "Viatrix",
+			"nation": ""
+		},
+		{
+			"id": 32,
+			"name": "Xingqiu",
+			"image": "xingqiu.png",
+			"element": "Hydro",
+			"weapon": "Sword",
+			"special_dish": "All-Delicacy Parcels",
+			"sex": "Male",
+			"birthday": "October 9th",
+			"constellation": "Fabulae Textile",
+			"nation": "Liyue"
+		},
+		{
+			"id": 33,
+			"name": "Xinyan",
+			"image": "xinyan.png",
+			"element": "Pyro",
+			"weapon": "Claymore",
+			"special_dish": "Rockin' Riffin' Chicken!",
+			"sex": "Female",
+			"birthday": "October 16th",
+			"constellation": "Fila Ignium",
+			"nation": "Liyue"
+		},
+		{
+			"id": 34,
+			"name": "Yanfei",
+			"image": "yanfei.png",
+			"element": "Pyro",
+			"weapon": "Catalyst",
+			"special_dish": "My Way",
+			"sex": "Female",
+			"birthday": "July 28th",
+			"constellation": "Bestia Iustitia",
+			"nation": "Liyue"
+		},
+		{
+			"id": 35,
+			"name": "Zhongli",
+			"image": "Zhongli.png",
+			"element": "Geo",
+			"weapon": "Polearm",
+			"special_dish": "Slow-Cooked Bamboo Shoot Soup",
+			"sex": "Male",
+			"birthday": "December 31st",
+			"constellation": "Lapis Dei",
+			"nation": "Liyue"
 		}
 	]
 }

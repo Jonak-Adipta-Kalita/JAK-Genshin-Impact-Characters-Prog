@@ -45,6 +45,7 @@ const displayPopup = (charactere, id) => {
 				<p><small>Weapon: </small>${charactere.character[id - 1].weapon}</p>
 				<p><small>Element: </small>${charactere.character[id - 1].element}</p>
 				<p><small>Constellation: </small>${charactere.character[id - 1].constellation}</p>
+				<p><small>Birthday: </small>${charactere.character[id - 1].birthday}</p>
 				<p><small>Nation: </small>${charactere.character[id - 1].nation}</p>
 				<p><small>Special Dish: </small>${charactere.character[id - 1].special_dish}</p>
 			</div>
