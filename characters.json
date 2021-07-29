@@ -47,6 +47,102 @@
 			"birthday": "February 14th",
 			"constellation": "Victor Mare",
 			"nation": "Liyue"
+		},
+		{
+			"id": 4,
+			"name": "Bennett",
+			"image": "bennett.png",
+			"element": "Pyro",
+			"weapon": "Sword",
+			"special_dish": "Teyvat Charred Egg",
+			"sex": "Male",
+			"birthday": "February 29th",
+			"constellation": "Rota Calamitas",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 5,
+			"name": "Chongyun",
+			"image": "chongyun.png",
+			"element": "Cyro",
+			"weapon": "Claymore",
+			"special_dish": "Cold Noodles with Mountain Delicacies",
+			"sex": "Male",
+			"birthday": "September 7th",
+			"constellation": "Nubis Caesor",
+			"nation": "Liyue"
+		},
+		{
+			"id": 6,
+			"name": "Diluc",
+			"image": "diluc.png",
+			"element": "Pyro",
+			"weapon": "Claymore",
+			"special_dish": "Once Upon a Time in Mondstadt",
+			"sex": "Male",
+			"birthday": "April 30th",
+			"constellation": "Noctua",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 7,
+			"name": "Diona",
+			"image": "Diona.png",
+			"element": "Cyro",
+			"weapon": "Bow",
+			"special_dish": "Definitely Not a Bar Food!",
+			"sex": "Female",
+			"birthday": "January 18th",
+			"constellation": "Feles",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 8,
+			"name": "Eula",
+			"image": "eula.png",
+			"element": "Cyro",
+			"weapon": "Claymore",
+			"special_dish": "Stormcrest Pie",
+			"sex": "Female",
+			"birthday": "October 25th",
+			"constellation": "Aphros Delos",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 9,
+			"name": "Fishl",
+			"image": "fishl.png",
+			"element": "Electro",
+			"weapon": "Bow",
+			"special_dish": "Die Heilige Sinfonie",
+			"sex": "Female",
+			"birthday": "May 27th",
+			"constellation": "Corvus",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 10,
+			"name": "Ganyu",
+			"image": "ganyu.png",
+			"element": "Cyro",
+			"weapon": "Bow",
+			"special_dish": "Prosperous Peace",
+			"sex": "Female",
+			"birthday": "December 2nd",
+			"constellation": "Sinae Unicornis",
+			"nation": "Liyue"
+		},
+		{
+			"id": 11,
+			"name": "Hu Tao",
+			"image": "hu-tao.png",
+			"element": "Pyro",
+			"weapon": "Polearm",
+			"special_dish": "Ghostly March",
+			"sex": "Female",
+			"birthday": "July 15th",
+			"constellation": "Papilo Charontis",
+			"nation": "Liyue"
 		}
 	]
 }
