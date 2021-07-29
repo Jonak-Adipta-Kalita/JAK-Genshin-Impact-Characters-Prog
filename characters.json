@@ -143,6 +143,78 @@
 			"birthday": "July 15th",
 			"constellation": "Papilo Charontis",
 			"nation": "Liyue"
+		},
+		{
+			"id": 12,
+			"name": "Jean",
+			"image": "jean.png",
+			"element": "Anemo",
+			"weapon": "Sword",
+			"special_dish": "Invigorating Pizza",
+			"sex": "Female",
+			"birthday": "March 14th",
+			"constellation": "Leo Minor",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 13,
+			"name": "Kaedehara",
+			"image": "kaedehara.png",
+			"element": "Anemo",
+			"weapon": "Sword",
+			"special_dish": "All-Weather Beuty",
+			"sex": "Male",
+			"birthday": "October 29th",
+			"constellation": "Acer Palmatum",
+			"nation": "Inazuma"
+		},
+		{
+			"id": 14,
+			"name": "Kaeya",
+			"image": "kaeya.png",
+			"element": "Cyro",
+			"weapon": "Sword",
+			"special_dish": "Fruity Skewers",
+			"sex": "Male",
+			"birthday": "November 30th",
+			"constellation": "Pavo Ocellus",
+			"nation": "Mondstadt and Khaenri'ah"
+		},
+		{
+			"id": 15,
+			"name": "Kamisato",
+			"image": "kamisato.png",
+			"element": "Cyro",
+			"weapon": "Sword",
+			"special_dish": "Snow on the Heart",
+			"sex": "Female",
+			"birthday": "September 28th",
+			"constellation": "Grus Nivis",
+			"nation": "Inazuma"
+		},
+		{
+			"id": 17,
+			"name": "Keqing",
+			"image": "keqing.png",
+			"element": "Electro",
+			"weapon": "Sword",
+			"special_dish": "Survival Grilled Fish",
+			"sex": "Female",
+			"birthday": "November 20th",
+			"constellation": "Trulla Cementarii",
+			"nation": "Liyue"
+		},
+		{
+			"id": 18,
+			"name": "Klee",
+			"image": "klee.png",
+			"element": "Pyro",
+			"weapon": "Catalyst",
+			"special_dish": "Fish-Flavored Toast",
+			"sex": "Female",
+			"birthday": "July 27th",
+			"constellation": "Trifolium",
+			"nation": "Mondstadt"
 		}
 	]
 }
