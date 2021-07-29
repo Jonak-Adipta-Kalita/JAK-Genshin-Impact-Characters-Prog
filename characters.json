@@ -251,6 +251,42 @@
 			"birthday": "August 26st",
 			"constellation": "Opus Aequilibrium",
 			"nation": "Liyue"
+		},
+		{
+			"id": 22,
+			"name": "Noelle",
+			"image": "noelle.png",
+			"element": "Geo",
+			"weapon": "Claymore",
+			"special_dish": "Lighter-Than-Air Pancake",
+			"sex": "Female",
+			"birthday": "March 21st",
+			"constellation": "Parma Cordis",
+			"nation": "Mondstadt"
+		},
+		{
+			"id": 23,
+			"name": "Qiq",
+			"image": "qiqi.png",
+			"element": "Cyro",
+			"weapon": "Sword",
+			"special_dish": "No Tomorrow",
+			"sex": "Female",
+			"birthday": "March 3rd",
+			"constellation": "Pristina Nola",
+			"nation": "Liyue"
+		},
+		{
+			"id": 24,
+			"name": "Razor",
+			"image": "razor.png",
+			"element": "Electro",
+			"weapon": "Claymore",
+			"special_dish": "Puppy-Paw Hash Brown",
+			"sex": "Male",
+			"birthday": "September 9th",
+			"constellation": "Lupus Minor",
+			"nation": "Mondstadt"
 		}
 	]
 }
