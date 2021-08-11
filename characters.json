@@ -431,6 +431,30 @@
 			"birthday": "December 31st",
 			"constellation": "Lapis Dei",
 			"nation": "Liyue"
+		},
+		{
+			"id": 36,
+			"name": "Yoimiya",
+			"image": "yoimiya.png",
+			"element": "Pyro",
+			"weapon": "Bow",
+			"special_dish": "Summer Festival Fish",
+			"sex": "Female",
+			"birthday": "June 21st",
+			"constellation": "Carassius Auratus",
+			"nation": "Inazuma"
+		},
+		{
+			"id": 37,
+			"name": "Sayu",
+			"image": "sayu.png",
+			"element": "Anemo",
+			"weapon": "Claymore",
+			"special_dish": "Dizziness-Be-Gone no Jutsu Version 2.0",
+			"sex": "Female",
+			"birthday": "October 19th",
+			"constellation": "Nyctereutes Minor",
+			"nation": "Inazuma"
 		}
 	]
 }
