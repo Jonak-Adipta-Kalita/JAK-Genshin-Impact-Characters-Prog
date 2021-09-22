@@ -455,6 +455,18 @@
 			"birthday": "October 19th",
 			"constellation": "Nyctereutes Minor",
 			"nation": "Inazuma"
+		},
+		{
+			"id": 38,
+			"name": "Sangonomiya Kokomi",
+			"image": "sangonomiya-kokomi.png",
+			"element": "Hydro",
+			"weapon": "Catalyst",
+			"special_dish": "A Stunning Stratagem",
+			"sex": "Female",
+			"birthday": "February 22nd",
+			"constellation": "Dracaena Somnolenta",
+			"nation": "Inazuma"
 		}
 	]
 }
