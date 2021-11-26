@@ -491,6 +491,30 @@
 			"birthday": "January 9th",
 			"constellation": "Robeum Scutum",
 			"nation": "Inazuma"
+		},
+		{
+			"id": 41,
+			"name": "Kujou Sara",
+			"image": "kujou-sara.png",
+			"element": "Electro",
+			"weapon": "Bow",
+			"special_dish": "Faith Eternal",
+			"sex": "Female",
+			"birthday": "July 14th",
+			"constellation": "Flabellum",
+			"nation": "Inazuma"
+		},
+		{
+			"id": 42,
+			"name": "Aloy",
+			"image": "aloy.png",
+			"element": "Cryo",
+			"weapon": "Bow",
+			"special_dish": "Satiety Gel",
+			"sex": "Female",
+			"birthday": "April 4th",
+			"constellation": "Nora Fortis",
+			"nation": null
 		}
 	]
 }
