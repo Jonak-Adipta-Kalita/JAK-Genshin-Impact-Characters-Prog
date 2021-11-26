@@ -110,8 +110,8 @@
 		},
 		{
 			"id": 9,
-			"name": "Fishl",
-			"image": "fishl.png",
+			"name": "Fischl",
+			"image": "fischl.png",
 			"element": "Electro",
 			"weapon": "Bow",
 			"special_dish": "Die Heilige Sinfonie",
@@ -466,6 +466,30 @@
 			"sex": "Female",
 			"birthday": "February 22nd",
 			"constellation": "Dracaena Somnolenta",
+			"nation": "Inazuma"
+		},
+		{
+			"id": 39,
+			"name": "Raiden Shogan",
+			"image": "raiden-shogan.png",
+			"element": "Electro",
+			"weapon": "Polearm",
+			"special_dish": null,
+			"sex": "Female",
+			"birthday": "June 26th",
+			"constellation": "Imperatrix Umbrosa",
+			"nation": "Inazuma"
+		},
+		{
+			"id": 40,
+			"name": "Thoma",
+			"image": "thoma.png",
+			"element": "Pyro",
+			"weapon": "Polearm",
+			"special_dish": "Warmth",
+			"sex": "Male",
+			"birthday": "January 9th",
+			"constellation": "Robeum Scutum",
 			"nation": "Inazuma"
 		}
 	]
