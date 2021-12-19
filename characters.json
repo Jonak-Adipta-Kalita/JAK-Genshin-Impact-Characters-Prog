@@ -515,6 +515,18 @@
 			"birthday": "April 4th",
 			"constellation": "Nora Fortis",
 			"nation": null
+		},
+		{
+			"id": 43,
+			"name": "Arataki Itto",
+			"image": "arataki-ttto.png",
+			"element": "Geo",
+			"weapon": "Claymore",
+			"special_dish": "Way of the Strong",
+			"sex": "Male",
+			"birthday": "June 1st",
+			"constellation": "Taurus Iracundus",
+			"nation": "Inazuma"
 		}
 	]
 }
