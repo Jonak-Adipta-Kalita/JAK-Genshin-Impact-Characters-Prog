@@ -519,7 +519,7 @@
 		{
 			"id": 43,
 			"name": "Arataki Itto",
-			"image": "arataki-ttto.png",
+			"image": "arataki-itto.png",
 			"element": "Geo",
 			"weapon": "Claymore",
 			"special_dish": "Way of the Strong",
@@ -551,6 +551,18 @@
 			"birthday": "March 10th",
 			"constellation": "Crista Doloris",
 			"nation": "Liyue"
+		},
+		{
+			"id": 46,
+			"name": "Gorou",
+			"image": "gorou.png",
+			"element": "Geo",
+			"weapon": "Bow",
+			"special_dish": "Victorious Legend",
+			"sex": "Male",
+			"birthday": "May 18th",
+			"constellation": "Canis Bellatoris",
+			"nation": "Inazuma"
 		}
 	]
 }
