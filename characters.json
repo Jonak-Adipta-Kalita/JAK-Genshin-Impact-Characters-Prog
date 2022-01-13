@@ -527,6 +527,30 @@
 			"birthday": "June 1st",
 			"constellation": "Taurus Iracundus",
 			"nation": "Inazuma"
+		},
+		{
+			"id": 44,
+			"name": "Yun Jin",
+			"image": "yun-jin.png",
+			"element": "Geo",
+			"weapon": "Polearm",
+			"special_dish": "Cloud-Shrouded Jade",
+			"sex": "Female",
+			"birthday": "May 21st",
+			"constellation": "Opera Grandis",
+			"nation": "Liyue"
+		},
+		{
+			"id": 45,
+			"name": "Shenhe",
+			"image": "shenhe.png",
+			"element": "Cyro",
+			"weapon": "Polearm",
+			"special_dish": "Heartstring Noodles",
+			"sex": "Female",
+			"birthday": "March 10th",
+			"constellation": "Crista Doloris",
+			"nation": "Liyue"
 		}
 	]
 }
