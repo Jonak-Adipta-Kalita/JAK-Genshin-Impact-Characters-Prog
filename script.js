@@ -1,13 +1,18 @@
 const dex = document.getElementById('dex');
 const fetchCharacters = async () => {
-    const url = "/characters.json";
-	const res = await fetch(url);
+    const res = await fetch("https://jak_api.p.rapidapi.com/genshinImpact", {
+		"method": "GET",
+		"headers": {
+			"x-rapidapi-host": "jak_api.p.rapidapi.com",
+			"x-rapidapi-key": "d3474315fcmshe6f03eb826f16bcp181f82jsn7d262d2601be"
+		}
+	});
 	const data = await res.json();
 	console.log(data);
 	const characters = data.character.map((result, index) => ({
 		...result,
 		id: index + 1,
-		image: `./images/${result.image}`
+		image: `https://jak-api.vercel.app/${result.image}`
 	}));
 	displayCharacter(characters);
 };
@@ -24,14 +29,19 @@ const displayCharacter = (character) => {
 };
 
 const selectCharacter = async (id) => {
-	const url = `\characters.json`;
-	const res = await fetch(url);
+	const res = await fetch("https://jak_api.p.rapidapi.com/genshinImpact", {
+		"method": "GET",
+		"headers": {
+			"x-rapidapi-host": "jak_api.p.rapidapi.com",
+			"x-rapidapi-key": "d3474315fcmshe6f03eb826f16bcp181f82jsn7d262d2601be"
+		}
+	});
 	const charactere = await res.json();
 	displayPopup(charactere, id);
 };
 
 const displayPopup = (charactere, id) => {
-	const image = `./images/${charactere.character[id - 1].image}`;
+	const image = `https://jak-api.vercel.app/${charactere.character[id - 1].image}`;
 	let nationHTMLString;
 	let special_dishHTMLString;
 	
